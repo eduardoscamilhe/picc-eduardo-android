@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treinamento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="meu_botao">Meu Botão</string>
+    <string name="string_primeira_imagem">Minha Primeira Imagem</string>
+    <string name="voce_clickou_posicao">Voce clickou na posição: %d</string>
+    <string name="para_de_clicar_carolhos">Para de clicar Carolhos!!! %d</string>
+    <string name="title_activity_contato">ContatoActivity</string>
+    <string name="novo">Novo</string>
+    
+    
+    <!-- Hints --> 
+    <string name="hint_nome_contato">Nome</string>
+    <string name="hint_endereco_contato">Endereço</string>
+    <string name="hint_site_contato">Site</string>
+    <string name="hint_telefone_contato">Telefone</string>
+    <string name="btn_salvar">Salvar</string>
+   
+    
+    
+
+</resources>
