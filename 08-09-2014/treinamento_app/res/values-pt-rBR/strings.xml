@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="action_settings">Opções</string>
+    <string name="app_name">Treinamento</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="string_primeira_imagem">Urso</string>
+
+</resources>

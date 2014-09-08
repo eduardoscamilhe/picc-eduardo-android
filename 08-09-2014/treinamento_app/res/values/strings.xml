@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Treinamento</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="meu_botao">Meu Botão</string>
+    <string name="string_primeira_imagem">Minha Primeira Imagem</string>
+    <string name="voce_clickou_posicao">Voce clickou na posição: %d</string>
+    <string name="para_de_clicar_carolhos">Para de clicar Carolhos!!! %d</string>
+    <string name="title_activity_contato">ContatoActivity</string>
+    <string name="novo">Novo</string>
+
+    <!-- Hints -->
+    <string name="hint_nome_contato">Nome</string>
+    <string name="hint_endereco_contato">Endereço</string>
+    <string name="hint_site_contato">Site</string>
+    <string name="hint_telefone_contato">Telefone</string>
+    <string name="btn_salvar">Salvar</string>
+    
+    <string name="title_activity_life_cicle">LifeCicleActivity</string>
+    
+    <string name="erro_obrigatorio">Preenchimento Obrigatorio!</string>
+    
+    
+    <!-- Context Menu Contatos -->
+    <string name="menu_editar">Editar</string>
+    <string name="menu_excluir">Excluir</string>
+    <string name="dialog_sim">SIM</string>
+    <string name="dialong_contato_excluir">Deseja excluir o contato: %s?</string>
+    <string name="dialog_nao">NÃO</string>
+    <string name="dialog_confirmacao">Confirmação</string>
+    <string name="subtitle_incluir_contato">Incluir Contato</string>
+    <string name="subtitle_alterar_contato">Alterar Contato</string>
+    <string name="subtitle_listar_contatos">Listar Contatos</string>
+    <string name="editar_menu">Editar</string>
+    <string name="excluir_menu">Excluir</string>
+
+</resources>

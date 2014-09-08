@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.treinamento.app.ContatoActivity" >
+
+    <item
+        android:id="@+id/action_novo"
+        android:title="@string/novo"/>
+
+    <group android:id="@+id/grupo_alterar" >
+        <item
+            android:id="@+id/alterar_menu"
+            android:title="@string/editar_menu">
+        </item>
+        <item
+            android:id="@+id/excluir_menu"
+            android:title="@string/excluir_menu">
+        </item>
+    </group>
+
+</menu>
