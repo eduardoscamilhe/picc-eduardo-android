@@ -17,11 +17,23 @@ public class ContatoEntity implements BaseColumns {
 	public static final String COLUNA_TELEFONE = "TELEFONE";
 	public static final String COLUNA_RATE = "RATE";
 
-	public static final String CREATE_BANCO = "CREATE TABLE %s (%s INTEGER PRIMARY KEY NOT NULL, %s TEXT NOT NULL,%s TEXT NOT NULL,%s TEXT NOT NULL,%s TEXT NOT NULL,%s REAL);";
+	public static final String CREATE_BANCO = "CREATE TABLE %s ("
+			+ "%s INTEGER PRIMARY KEY NOT NULL,"
+			+ "%s TEXT NOT NULL,"
+			+ "%s TEXT NOT NULL,"
+			+ "%s TEXT NOT NULL,"
+			+ "%s TEXT NOT NULL,"
+			+ "%s REAL);";
 	public static final String DROP_BANCO = "DROP TABLE IF EXISTS %s;";
 	
 	
-	public static final String[] COLUNAS = new String[] { COLUNA_ID, COLUNA_NOME, COLUNA_SITE, COLUNA_ENDERECO, COLUNA_TELEFONE, COLUNA_RATE };
+	public static final String[] COLUNAS = new String[] { 
+		COLUNA_ID,
+		COLUNA_NOME, 
+		COLUNA_SITE, 
+		COLUNA_ENDERECO, 
+		COLUNA_TELEFONE, 
+		COLUNA_RATE };
 
 	private ContatoEntity() {
 		super();
